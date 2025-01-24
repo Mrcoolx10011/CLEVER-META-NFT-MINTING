@@ -30,7 +30,7 @@ const Footer = () => {
                     </a>
                   </div>
                   <div className="copiright_text">
-                    <p>Copyright © 2022 CleverMeta</p>
+                    <p>Copyright © 2024 CleverMeta</p>
                   </div>
                 </div>
                 <a href="# " className="bact_to_top_btn">

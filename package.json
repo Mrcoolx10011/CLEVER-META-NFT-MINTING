@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Mrcoolx10011.github.io/MATAMASK",
+  
   "name": "clevermeta",
   "version": "0.1.0",
   "private": true,
@@ -30,9 +30,10 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
-    "react-scripts": "5.0.1"
+    "gh-pages": "^4.0.0",
+    "react-scripts": "^5.0.1"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",

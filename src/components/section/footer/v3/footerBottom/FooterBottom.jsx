@@ -18,7 +18,7 @@ const FooterBottom = () => {
           <div className="footer_menu">
             <div className="bottom_footer_left">
               <div className="copyright_text">
-                Copyright ©2022 CleverMeta, All rights reserved.
+                Copyright ©2024 CleverMeta, All rights reserved.
               </div>
             </div>
             <a href="# " className="bact_to_top_btn">
