@@ -1,3 +1,2 @@
-*.pack filter=lfs diff=lfs merge=lfs -textbuild/
-node_modules/
-.cache/
+*.pack filter=lfs diff=lfs merge=lfs -text
+
